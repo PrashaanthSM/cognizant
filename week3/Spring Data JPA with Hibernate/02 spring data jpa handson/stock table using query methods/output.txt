@@ -1,0 +1,10 @@
+FB Stocks in Sep 2019: 19 records from 2019-09-03 to 2019-09-27
+GOOGL stocks with close > 1250: 7 records
+Top 3 highest volume days:
+1. 2019-01-31 - 77233600
+2. 2018-10-31 - 60101300
+3. 2018-12-19 - 57404900
+Lowest 3 Netflix stocks:
+1. 2018-12-24 - 233.88
+2. 2018-12-21 - 246.39
+3. 2018-12-26 - 253.67

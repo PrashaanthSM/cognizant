@@ -1,0 +1,25 @@
+Search by 'ou':
+Bouvet Island
+Djibouti
+Guadeloupe
+South Georgia and the South Sandwich Islands
+Luxembourg
+South Sudan
+French Southern Territories
+United States Minor Outlying Islands
+South Africa
+
+Search by 'ou' ordered:
+Bouvet Island
+Djibouti
+French Southern Territories
+Guadeloupe
+Luxembourg
+South Africa
+South Georgia and the South Sandwich Islands
+South Sudan
+United States Minor Outlying Islands
+
+Search by 'Z':
+Zambia
+Zimbabwe
